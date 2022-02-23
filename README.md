@@ -9,8 +9,8 @@
 - Webpack
 
 <br/>
-__________________________
-Download the starter kit
+<hr>
+ Download the starter kit
 
 npx degit https://github.com/gopinav/React-TypeScript-Webpack-Starter my-app
 
